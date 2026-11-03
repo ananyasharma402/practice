@@ -1,4 +1,4 @@
-# DBMS Query Practice
+# Practice
 
 ## About
 This repository contains basic SQL queries practiced as part of learning Database Management Systems (DBMS). It includes common operations performed on tables using SQL.
